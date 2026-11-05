@@ -1,7 +1,7 @@
 public class CommitCafe {
 
     private static String barista = "Jake"; // STUDENT_TODO_1A: Change name
-    private static nickname = "Main barista";
+    private static String nickname = "Main barista";
 
     private static int cups = 0;
 
